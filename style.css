@@ -1,3 +1,4 @@
+/*colors and fonts*/
 body {
 	background-color: #F7F9FC;
 	color: #575f7D;
@@ -25,6 +26,8 @@ a{
 a:hover {
 	color: brown;
 }
+
+/*design with class*/
 
 .container {
 	width: 700px;
